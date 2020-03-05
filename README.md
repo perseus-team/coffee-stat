@@ -1,1 +1,1 @@
-# coffee-stat
+# CoffeeStat
